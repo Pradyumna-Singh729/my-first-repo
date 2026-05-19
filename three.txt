@@ -1,4 +1,3 @@
 3
 three
 threethree
-hello 3
